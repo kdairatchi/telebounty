@@ -1,0 +1,7 @@
+{
+  "API_TOKEN": "Your_Telegram_Bot_API_Token",
+  "CHAT_ID": "Your_Telegram_Chat_ID",
+  "CHECK_INTERVAL": 60,
+  "SUMMARY_INTERVAL": 10,
+  "GIST_URL": null
+}

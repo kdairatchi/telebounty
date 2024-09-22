@@ -16,9 +16,6 @@ This tool monitors a list of URLs from a `scope.txt` file or a GitHub Gist and s
    ```bash
    git clone https://github.com/kdairatchi/telebounty.git
    cd telebounty
-
-	2.	Install required dependencies:
-
 pip install requests
 
 
